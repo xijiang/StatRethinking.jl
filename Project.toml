@@ -1,0 +1,4 @@
+name = "StatRethinking"
+uuid = "ae625fcb-1b9c-43e6-8a83-03e356f04fd9"
+authors = ["Xijiang Yu <xijiang@users.noreply.github.com>"]
+version = "0.1.0"
